@@ -1,0 +1,17 @@
+{
+  "appName": "Af Hooyo",
+  "gateEyebrow": "For parents",
+  "gateTitle": "Let's get ready",
+  "gatePrompt": "What is 18 + 7?",
+  "gateAnswerLabel": "Answer to the parent check",
+  "gateHint": "Ask a grown-up to help.",
+  "gateContinue": "Continue",
+  "gateError": "Try again with a grown-up.",
+  "profilesEyebrow": "Choose a learner",
+  "profilesTitle": "Who's learning today?",
+  "profileOne": "Explorer One",
+  "profileTwo": "Explorer Two",
+  "homeTitle": "Ready to speak?",
+  "homeMessage": "Speaking adventures are coming soon.",
+  "homeChange": "Choose another learner"
+}

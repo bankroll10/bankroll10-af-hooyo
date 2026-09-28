@@ -1,0 +1,26 @@
+{
+  "appName": { "text": "Af Hooyo", "reviewed": false },
+  "gateEyebrow": { "text": "Waalidiinta", "reviewed": false },
+  "gateTitle": { "text": "Aan is diyaarinno", "reviewed": false },
+  "gatePrompt": { "text": "Waa imisa 18 + 7?", "reviewed": false },
+  "gateAnswerLabel": { "text": "Jawaabta hubinta waalidka", "reviewed": false },
+  "gateHint": { "text": "Qof weyn caawimo weydii.", "reviewed": false },
+  "gateContinue": { "text": "Sii wad", "reviewed": false },
+  "gateError": {
+    "text": "Mar kale isku day adigoo qof weyn la jooga.",
+    "reviewed": false
+  },
+  "profilesEyebrow": { "text": "Dooro arday", "reviewed": false },
+  "profilesTitle": { "text": "Yaa maanta baranaya?", "reviewed": false },
+  "profileOne": { "text": "Sahamiye Koowaad", "reviewed": false },
+  "profileTwo": { "text": "Sahamiye Labaad", "reviewed": false },
+  "homeTitle": {
+    "text": "Diyaar ma u tahay inaad hadasho?",
+    "reviewed": false
+  },
+  "homeMessage": {
+    "text": "Tababarka hadalka ayaa dhowaan imanaya.",
+    "reviewed": false
+  },
+  "homeChange": { "text": "Dooro arday kale", "reviewed": false }
+}
