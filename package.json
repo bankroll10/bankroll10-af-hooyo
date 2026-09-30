@@ -43,9 +43,6 @@
   "private": true,
   "jest": {
     "preset": "jest-expo",
-    "testPathIgnorePatterns": [
-      "/node_modules/",
-      "/work/"
-    ]
+    "testPathIgnorePatterns": ["<rootDir>/work/"]
   }
 }
