@@ -43,6 +43,8 @@
   "private": true,
   "jest": {
     "preset": "jest-expo",
-    "testPathIgnorePatterns": ["<rootDir>/work/"]
+    "testPathIgnorePatterns": [
+      "<rootDir>/work/"
+    ]
   }
 }
